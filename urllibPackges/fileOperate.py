@@ -26,8 +26,19 @@ headers = {
     'User-Agent': 'Mozilla/4.0(compatible;MSIE7.0;WindowsNT5.1;TheWorld)'
 }
 
+# --------------方法一---------------------
 # 构造一个请求对象
-request = urllib.request.Request(url=URL, headers=headers)
+# request = urllib.request.Request(url=URL, headers=headers)
+# -----------------------------------------
+
+
+# ----------------方法二-------------------
+# 自己构建一个请求
+request = urllib.request.Request(url=URL)
+
+# 伪造UA 添加UA
+request.add_header("User-Agent", 'Mozilla/4.0(compatible;MSIE7.0;WindowsNT5.1;TheWorld)')
+# ------------------------------------------
 
 # 发送请求 返回结果
 result = urllib.request.urlopen(request)
