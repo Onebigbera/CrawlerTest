@@ -49,12 +49,12 @@ url = 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=15341
 # 获取url对应的资源img | 也可以下载视频资源
 urllib.request.urlretrieve(url=url, filename=r'F:\Testing_Automation\UnittestProjects\UnittestBasic\urllibPackges\downloads\stam.png')
 
-# url中get方法传参数 带中文编码 不同字符集合时必须用quote
+# url中get方法传参数 带中文编码 不同字符集合时必须用quote url编码
 strEncode = urllib.parse.quote("https://www.baidu.com/s?ie=utf-8&wd=中国")
 # https%3A//www.baidu.com/s%3Fie%3Dutf-8%26wd%3D%E4%B8%AD%E5%9B%BD
 print(strEncode)
 
-# 将get参数进行解码
+# 将get参数进行解码  URL解码
 strDecode = urllib.parse.unquote('https%3A//www.baidu.com/s%3Fie%3Dutf-8%26wd%3D%E4%B8%AD%E5%9B%BD')
 # https://www.baidu.com/s?ie=utf-8&wd=中国
 print(strDecode)

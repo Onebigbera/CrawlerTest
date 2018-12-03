@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21f7f3a3-81f9-43a4-a4ec-e3e9ef4409b1" name="Default" comment="" />
+    <list default="true" id="21f7f3a3-81f9-43a4-a4ec-e3e9ef4409b1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/urllibPackges/fileOperate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urllibPackges/urlBasic_g.py" beforeDir="false" afterPath="$PROJECT_DIR$/urllibPackges/urlBasic_g.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,14 +15,15 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/UnittestBasic$urlBasic_g.coverage" NAME="urlBasic_g Coverage Results" MODIFIED="1543841502235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllibPackges" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$fileOperate.coverage" NAME="fileOperate Coverage Results" MODIFIED="1543846126716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllibPackges" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="urlBasic_g.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="urlBasic_g.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/urllibPackges/urlBasic_g.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+            <state relative-caret-position="1004">
+              <caret line="51" column="42" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
               <folding>
                 <element signature="e#113#134#0" expanded="true" />
               </folding>
@@ -26,12 +31,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Baidu.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/urllibPackges/downloads/Baidu.html">
+      <file leaf-file-name="fileOperate.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/urllibPackges/fileOperate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="501">
+              <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+              <folding>
+                <element signature="e#474#493#0" expanded="true" />
+              </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="girls.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/urllibPackges/downloads/girls.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-22502" />
           </provider>
         </entry>
       </file>
@@ -53,13 +68,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.ignore.py" />
         <option value="$PROJECT_DIR$/README.txt.py" />
         <option value="$PROJECT_DIR$/README.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/urllibPackges/urlBasic_g.py" />
+        <option value="$PROJECT_DIR$/urllibPackges/fileOperate.py" />
       </list>
     </option>
   </component>
@@ -69,11 +89,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="718" />
-    <option name="width" value="1107" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1017" />
+    <option name="width" value="908" />
     <option name="height" value="1038" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -106,6 +127,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore&#10;F:/Testing_Automation/UnittestProjects/UnittestBasic/urllibPackges/downloads/Baidu.html&#10;F:/Testing_Automation/UnittestProjects/UnittestBasic/urllibPackges/downloads/girls.html" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -123,7 +145,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.fileOperate">
+    <configuration name="fileOperate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UnittestBasic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/urllibPackges" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/urllibPackges/fileOperate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="urlBasic_g" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="UnittestBasic" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,8 +184,13 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <list>
+      <item itemvalue="Python.urlBasic_g" />
+      <item itemvalue="Python.fileOperate" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fileOperate" />
         <item itemvalue="Python.urlBasic_g" />
       </list>
     </recent_temporary>
@@ -163,16 +209,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="575" y="0" width="885" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3294964" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.45244956" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.40489915" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49928057" visible="true" weight="0.045949213" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.13980028" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.36940837" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49928057" visible="true" weight="0.05563003" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="4" />
@@ -193,6 +240,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.txt">
@@ -228,19 +280,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/urllibPackges/downloads/Baidu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
+        <state relative-caret-position="66">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/urllibPackges/urlBasic_g.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+        <state relative-caret-position="1004">
+          <caret line="51" column="42" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
           <folding>
             <element signature="e#113#134#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urllibPackges/fileOperate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding>
+            <element signature="e#474#493#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urllibPackges/downloads/girls.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22502" />
       </provider>
     </entry>
   </component>
