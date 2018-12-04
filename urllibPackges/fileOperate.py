@@ -9,6 +9,11 @@
     但是当我们将浏览器上可以看到的美女后面删除后结果是一样的
     得出结论: 后面带的信息对我们要搜索的内容不产生影响
     URL 编码/解码网站 http://tool.chinaz.com/tools/urlencode.aspx
+
+    针对get请求的转码
+    quote: 对字符串进行编码
+    unquote: 对字符串进行解码
+
 """
 import urllib.parse
 import urllib.request
