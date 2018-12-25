@@ -30,8 +30,8 @@ def etree_read(path):
     return etree_html
 
 
-# 返回解析出来的parse对象
-path = os.path.join('TestDemo', 'Demo.html')
+# 返回解析出来的parse对象  路径一定要对
+path = os.path.join(r'F:\Testing_Automation\UnittestProjects\UnittestBasic\SeleniumOperation\TestDemo', 'Demo.html')
 # 返回parse解析树
 etree_html = etree_read(path)
 # 返回对象为列表 取某个文本
@@ -43,6 +43,6 @@ print(hehe_context)
 leijun_href = etree_html.xpath("//div[@id='pp']/div[@class='hh']/a/@href")
 print(leijun_href)
 
-# 批量获取 这里同时取了一个文本和一个 class  ['君不见黄河之水天上来，奔流到海不复回', 'hehe']
+# 批量获取 这里同时取了一个文本和一个 class  ['君不见黄河之水天上来，奔流到海不复回', 'hehe']xxx
 libai_id = etree_html.xpath("//div[@id='pp']/ol/li[@class='huanghe']/text()|//div[@id='pp']/ol/li[@id='tata']/@class ")
 print(libai_id)

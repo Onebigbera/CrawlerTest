@@ -23,7 +23,7 @@ keyWord = input('请输入你要查询的词语:')
 # 因为输入中带有中文 需要将keyWord编码
 encodedKeyWord = urllib.parse.quote(keyWord)
 
-# url 拼接
+# url 拼接 将含有中文字符的参数进行编码后再拼接
 URL = "http://www.baidu.com/s?ie=utf-8&wd=" + encodedKeyWord
 
 # 自己构建一个headers

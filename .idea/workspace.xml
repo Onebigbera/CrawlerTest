@@ -2,11 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21f7f3a3-81f9-43a4-a4ec-e3e9ef4409b1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/SeleniumOperation/XpathDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumOperation/basicDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51zxw_selenium_example/HTML_exmaplesG/frame_example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51zxw_selenium_example/HTML_exmaplesG/uploadFile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51zxw_selenium_example/browser_control.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51zxw_selenium_example/cookieHandler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51zxw_selenium_example/download_Files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51zxw_selenium_example/drive_your_browser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51zxw_selenium_example/explicit_wait_untilAppearG.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51zxw_selenium_example/getScreenShotG.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51zxw_selenium_example/iframe_element_location.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51zxw_selenium_example/implicit_wait_until_appear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51zxw_selenium_example/keyboard_actionG.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51zxw_selenium_example/mouse_action.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51zxw_selenium_example/multiwindows_operate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51zxw_selenium_example/popUp_AlertHandler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51zxw_selenium_example/positioning_element/locate_Xpath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51zxw_selenium_example/positioning_element/locate_className.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51zxw_selenium_example/positioning_element/locate_css.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51zxw_selenium_example/positioning_element/locate_id.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51zxw_selenium_example/positioning_element/locate_linkText.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51zxw_selenium_example/positioning_element/locate_tagname.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51zxw_selenium_example/pull_down_list_operatG.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51zxw_selenium_example/scrollbarOperateG.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51zxw_selenium_example/selenium_cookie_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51zxw_selenium_example/upload_fileG.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IPpool_g/IPpool_g.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumOperation/auto_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumOperation/selenium_cookie_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebDriver_g/HtmlDemo/checkbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebDriver_g/basic_operation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebDriver_g/foward_back.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebDriver_g/get_authInfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebDriver_g/keyboard_usage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebDriver_g/loading_file_waitting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebDriver_g/loading_file_waitting_implied.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebDriver_g/locate_element_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebDriver_g/mouse_usage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebDriver_g/size_control.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xpath_Practice/Sina_xpath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xpath_Practice/Xpath_Demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xpath_Practice/requestDemo/events.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xpath_Practice/requestDemo/logAnalyze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xpath_Practice/requestDemo/regularDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xpath_Practice/requestDemo/requestDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xpath_Practice/requestDemo/xpath_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beautifulSoup/BS4_Demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urllibPackges/IPproxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdriver_G.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/urllibPackges/urlBasic_g.py" beforeDir="false" afterPath="$PROJECT_DIR$/urllibPackges/urlBasic_g.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumOperation/XpathDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Xpath_Practice/XpathDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urllibPackges/fileOperate.py" beforeDir="false" afterPath="$PROJECT_DIR$/urllibPackges/fileOperate.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,42 +62,72 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/UnittestBasic$urlBasic_g.coverage" NAME="urlBasic_g Coverage Results" MODIFIED="1543841502235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllibPackges" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$locate_Xpath.coverage" NAME="locate_Xpath Coverage Results" MODIFIED="1545548309193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/51zxw_selenium_example/positioning_element" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$loading_file_waitting_implied.coverage" NAME="loading_file_waitting_implied Coverage Results" MODIFIED="1544106440891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebDriver_g" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$locate_id.coverage" NAME="locate_id Coverage Results" MODIFIED="1545539336025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/51zxw_selenium_example/positioning_element" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$browser_control.coverage" NAME="browser_control Coverage Results" MODIFIED="1545619214101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/51zxw_selenium_example" />
     <SUITE FILE_PATH="coverage/UnittestBasic$fileOperate.coverage" NAME="fileOperate Coverage Results" MODIFIED="1543853562746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllibPackges" />
-    <SUITE FILE_PATH="coverage/UnittestBasic$basicDemo.coverage" NAME="basicDemo Coverage Results" MODIFIED="1543897306680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SeleniumOperation" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$locate_className.coverage" NAME="locate_className Coverage Results" MODIFIED="1545540891609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/51zxw_selenium_example/positioning_element" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$popUp_AlertHandler.coverage" NAME="popUp_AlertHandler Coverage Results" MODIFIED="1545644136544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/51zxw_selenium_example" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$multiwindows_operate.coverage" NAME="multiwindows_operate Coverage Results" MODIFIED="1545636613683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/51zxw_selenium_example" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$selenium_cookie.coverage" NAME="selenium_cookie Coverage Results" MODIFIED="1543995238969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SeleniumOperation" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$mouse_action.coverage" NAME="mouse_action Coverage Results" MODIFIED="1545559668107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/51zxw_selenium_example" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$wait_untilAppearG.coverage" NAME="wait_untilAppearG Coverage Results" MODIFIED="1545572846292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/51zxw_selenium_example" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$getScreenShotG.coverage" NAME="getScreenShotG Coverage Results" MODIFIED="1545710022052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/51zxw_selenium_example" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$drive_your_browser.coverage" NAME="drive_your_browser Coverage Results" MODIFIED="1545535524164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/51zxw_selenium_example" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$keyboard_actionG.coverage" NAME="keyboard_actionG Coverage Results" MODIFIED="1545565731373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/51zxw_selenium_example" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$scrollbarOperateG.coverage" NAME="scrollbarOperateG Coverage Results" MODIFIED="1545721858335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/51zxw_selenium_example" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$download_Files.coverage" NAME="download_Files Coverage Results" MODIFIED="1545644999857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/51zxw_selenium_example" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$locate_tagname.coverage" NAME="locate_tagname Coverage Results" MODIFIED="1545540084129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/51zxw_selenium_example/positioning_element" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$logAnalyze.coverage" NAME="logAnalyze Coverage Results" MODIFIED="1543976038708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath_Practice/requestDemo" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$size_control.coverage" NAME="size_control Coverage Results" MODIFIED="1544075564239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebDriver_g" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$BS4_Demo.coverage" NAME="BS4_Demo Coverage Results" MODIFIED="1544002548498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beautifulSoup" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$implicit_wait_until_appear.coverage" NAME="implicit_wait_until_appear Coverage Results" MODIFIED="1545574058490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/51zxw_selenium_example" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$selenium_cookie_login.coverage" NAME="selenium_cookie_login Coverage Results" MODIFIED="1545725436418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SeleniumOperation" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$regularDemo.coverage" NAME="regularDemo Coverage Results" MODIFIED="1543973368213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath_Practice/requestDemo" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$XpathDemo.coverage" NAME="XpathDemo Coverage Results" MODIFIED="1544066448747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath_Practice" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$locate_css.coverage" NAME="locate_css Coverage Results" MODIFIED="1545554032071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/51zxw_selenium_example/positioning_element" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$iframe_element_location.coverage" NAME="iframe_element_location Coverage Results" MODIFIED="1545622926124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/51zxw_selenium_example" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$locate_linkText.coverage" NAME="locate_linkText Coverage Results" MODIFIED="1545541683513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/51zxw_selenium_example/positioning_element" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$urlBasic_g.coverage" NAME="urlBasic_g Coverage Results" MODIFIED="1543841502235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllibPackges" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$basic_operation.coverage" NAME="basic_operation Coverage Results" MODIFIED="1544013990949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebDriver_g" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$basicDemo.coverage" NAME="basicDemo Coverage Results" MODIFIED="1543925379648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SeleniumOperation" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$foward_back.coverage" NAME="foward_back Coverage Results" MODIFIED="1544072783218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebDriver_g" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$upload_fileG.coverage" NAME="upload_fileG Coverage Results" MODIFIED="1545662416680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/51zxw_selenium_example" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$Sina_xpath.coverage" NAME="Sina_xpath Coverage Results" MODIFIED="1544070881304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xpath_Practice" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$web_control.coverage" NAME="web_control Coverage Results" MODIFIED="1543925351178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebDriver_g" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$loading_file_waitting.coverage" NAME="loading_file_waitting Coverage Results" MODIFIED="1544105693913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebDriver_g" />
     <SUITE FILE_PATH="coverage/UnittestBasic$basicPost.coverage" NAME="basicPost Coverage Results" MODIFIED="1543887903291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllibPackges" />
-    <SUITE FILE_PATH="coverage/UnittestBasic$XpathDemo.coverage" NAME="XpathDemo Coverage Results" MODIFIED="1543907235223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SeleniumOperation" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$mouse_usage.coverage" NAME="mouse_usage Coverage Results" MODIFIED="1544076935922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebDriver_g" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$keyboard_usage.coverage" NAME="keyboard_usage Coverage Results" MODIFIED="1544079993083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebDriver_g" />
+    <SUITE FILE_PATH="coverage/UnittestBasic$get_authInfo.coverage" NAME="get_authInfo Coverage Results" MODIFIED="1544096294544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebDriver_g" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="basicDemo.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SeleniumOperation/basicDemo.py">
+    <leaf>
+      <file leaf-file-name="cookieHandler.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/cookieHandler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            <state relative-caret-position="418">
+              <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="XpathDemo.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SeleniumOperation/XpathDemo.py">
+      <file leaf-file-name="selenium_cookie_login.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SeleniumOperation/selenium_cookie_login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="3740">
+              <caret line="130" lean-forward="true" selection-start-line="130" selection-end-line="130" />
               <folding>
-                <element signature="e#232#241#0" expanded="true" />
+                <element signature="e#552#582#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Demo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SeleniumOperation/TestDemo/Demo.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-            </state>
-          </provider>
+      <file leaf-file-name="selenium_cookie_login.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/selenium_cookie_login.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -59,8 +135,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -70,17 +146,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.ignore.py" />
-        <option value="$PROJECT_DIR$/README.txt.py" />
-        <option value="$PROJECT_DIR$/README.txt" />
-        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Xpath_Practice/requestDemo/xpath_practice.py" />
+        <option value="$PROJECT_DIR$/Xpath_Practice/XpathDemo.py" />
         <option value="$PROJECT_DIR$/urllibPackges/fileOperate.py" />
-        <option value="$PROJECT_DIR$/urllibPackges/basicPost.py" />
-        <option value="$PROJECT_DIR$/requirements.txt" />
-        <option value="$PROJECT_DIR$/SeleniumOperation/basicDemo.py" />
-        <option value="$PROJECT_DIR$/urllibPackges/urlBasic_g.py" />
-        <option value="$PROJECT_DIR$/SeleniumOperation/TestDemo/Demo.html" />
-        <option value="$PROJECT_DIR$/SeleniumOperation/XpathDemo.py" />
+        <option value="$PROJECT_DIR$/beautifulSoup/BS4_Demo.py" />
+        <option value="$PROJECT_DIR$/Xpath_Practice/Sina_xpath.py" />
+        <option value="$PROJECT_DIR$/WebDriver_g/foward_back.py" />
+        <option value="$PROJECT_DIR$/WebDriver_g/basic_operation.py" />
+        <option value="$PROJECT_DIR$/WebDriver_g/size_control.py" />
+        <option value="$PROJECT_DIR$/WebDriver_g/keyboard_usage.py" />
+        <option value="$PROJECT_DIR$/WebDriver_g/get_authInfo.py" />
+        <option value="$PROJECT_DIR$/WebDriver_g/mouse_usage.py" />
+        <option value="$PROJECT_DIR$/WebDriver_g/loading_file_waitting.py" />
+        <option value="$PROJECT_DIR$/WebDriver_g/loading_file_waitting_implied.py" />
+        <option value="$PROJECT_DIR$/WebDriver_g/HtmlDemo/checkbox.html" />
+        <option value="$PROJECT_DIR$/WebDriver_g/locate_element_set.py" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/drive_your_browser.py" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/browser_control.py" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/positioning_element/position_id.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/positioning_element/locate_id.py" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/positioning_element/locate_tagname.py" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/positioning_element/locate_linkText.py" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/positioning_element/geckodriver.log" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/positioning_element/locate_className.py" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/positioning_element/locate_Xpath.py" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/positioning_element/locate_css.py" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/pull_down_list_operatG.py" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/mouse_action.py" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/keyboard_actionG.py" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/geckodriver.log" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/wait_untilAppearG.py" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/implicit_wait_until_appear.py" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/Utilities/webdriver_G.py" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/utilities/__init__.py" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/utilities/webdriver_G.py" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/HTML_exmaplesG/iframe_example.html" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/HTML_exmaplesG/html_test.html" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/HTML_exmaplesG/frame_example.html" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/iframe_element_location.py" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/multiwindows_operate.py" />
+        <option value="$PROJECT_DIR$/webdriver_G.py" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/download_Files.py" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/popUp_AlertHandler.py" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/HTML_exmaplesG/http_cdn.bootcss.com_jquery_3.3.1_jquery.js" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/HTML_exmaplesG/http_cdn.bootcss.com_jquery_3.0.0_jquery.js" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/HTML_exmaplesG/uploadFile.html" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/upload_fileG.py" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/getScreenShotG.py" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/cookieHandler.py" />
+        <option value="$PROJECT_DIR$/51zxw_selenium_example/scrollbarOperateG.py" />
+        <option value="$PROJECT_DIR$/SeleniumOperation/selenium_cookie_login.py" />
       </list>
     </option>
   </component>
@@ -91,9 +207,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="12" />
-    <option name="width" value="962" />
-    <option name="height" value="1072" />
+    <option name="x" value="617" />
+    <option name="width" value="1038" />
+    <option name="height" value="1103" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -101,6 +217,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,17 +240,31 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore&#10;F:/Testing_Automation/UnittestProjects/UnittestBasic/urllibPackges/downloads/json.json&#10;F:/Testing_Automation/UnittestProjects/UnittestBasic/urllibPackges/downloads/Baidu.html&#10;F:/Testing_Automation/UnittestProjects/UnittestBasic/urllibPackges/downloads/girls.html" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="last.edited.regexp" value="Sample Text" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Testing_Development\UnittestProjects\UnittestBasic\51zxw_selenium_example" />
+      <recent name="F:\Testing_Development\UnittestProjects\UnittestBasic\51zxw_selenium_example\HTML_exmaplesG" />
+      <recent name="F:\Testing_Automation\UnittestProjects\UnittestBasic\Xpath_Practice\requestDemo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Testing_Development\UnittestProjects\UnittestBasic\51zxw_selenium_example\HTML_exmaplesG" />
+      <recent name="F:\Testing_Development\UnittestProjects\UnittestBasic\51zxw_selenium_example" />
+      <recent name="F:\Testing_Development\UnittestProjects\UnittestBasic" />
+      <recent name="F:\Testing_Development\UnittestProjects\UnittestBasic\51zxw_selenium_example\utilities" />
+      <recent name="F:\Testing_Automation\UnittestProjects\UnittestBasic\Xpath_Practice" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -147,8 +278,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.XpathDemo">
-    <configuration name="XpathDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.selenium_cookie_login">
+    <configuration name="download_Files" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UnittestBasic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/51zxw_selenium_example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/51zxw_selenium_example/download_Files.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="getScreenShotG" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UnittestBasic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/51zxw_selenium_example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/51zxw_selenium_example/getScreenShotG.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="scrollbarOperateG" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UnittestBasic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/51zxw_selenium_example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/51zxw_selenium_example/scrollbarOperateG.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="selenium_cookie_login" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="UnittestBasic" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,13 +349,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumOperation/XpathDemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumOperation/selenium_cookie_login.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="basicDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="upload_fileG" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="UnittestBasic" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,88 +363,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleniumOperation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/51zxw_selenium_example" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumOperation/basicDemo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="basicPost" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="UnittestBasic" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/urllibPackges" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/urllibPackges/basicPost.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="fileOperate" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="UnittestBasic" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/urllibPackges" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/urllibPackges/fileOperate.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="urlBasic_g" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="UnittestBasic" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/urllibPackges" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/urllibPackges/urlBasic_g.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/51zxw_selenium_example/upload_fileG.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.urlBasic_g" />
-      <item itemvalue="Python.fileOperate" />
-      <item itemvalue="Python.basicPost" />
-      <item itemvalue="Python.basicDemo" />
-      <item itemvalue="Python.XpathDemo" />
+      <item itemvalue="Python.download_Files" />
+      <item itemvalue="Python.upload_fileG" />
+      <item itemvalue="Python.scrollbarOperateG" />
+      <item itemvalue="Python.getScreenShotG" />
+      <item itemvalue="Python.selenium_cookie_login" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.XpathDemo" />
-        <item itemvalue="Python.basicDemo" />
-        <item itemvalue="Python.basicPost" />
-        <item itemvalue="Python.fileOperate" />
-        <item itemvalue="Python.urlBasic_g" />
+        <item itemvalue="Python.selenium_cookie_login" />
+        <item itemvalue="Python.scrollbarOperateG" />
+        <item itemvalue="Python.getScreenShotG" />
+        <item itemvalue="Python.upload_fileG" />
+        <item itemvalue="Python.download_Files" />
       </list>
     </recent_temporary>
   </component>
@@ -274,30 +405,29 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-18" y="15" width="853" height="857" extended-state="0" />
-    <editor active="true" />
+    <frame x="494" y="0" width="830" height="882" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3294964" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5011236" side_tool="true" weight="0.32467532" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3986111" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.34487733" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49928057" visible="true" weight="0.02389937" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.11677852" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4988764" weight="0.32034633" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49928057" visible="true" weight="0.24352331" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="SciView" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5007194" side_tool="true" weight="0.14263323" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.0014409221" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2886003" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,143 +438,381 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="11" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SeleniumOperation/basicDemo.py">
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/positioning_element/locate_tagname.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/urllibPackges/urlBasic_g.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="51" column="42" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/urllibPackges/fileOperate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="902">
-          <caret line="42" column="11" lean-forward="true" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Installation_site/Python/Lib/urllib/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16434">
-          <caret line="749" column="61" lean-forward="true" selection-start-line="749" selection-start-column="61" selection-end-line="749" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/urllibPackges/basicPost.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="39" column="38" lean-forward="true" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/meta.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1758">
-          <caret line="318" column="22" selection-start-line="318" selection-start-column="22" selection-end-line="318" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/urllibPackges/Baidu.html" />
-    <entry file="file://$PROJECT_DIR$/urllibPackges/downloads/Baidu.html" />
-    <entry file="file://$PROJECT_DIR$/urllibPackges/downloads/girls.html" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
+        <state relative-caret-position="264">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/urllibPackges/downloads/json.json" />
-    <entry file="file://$PROJECT_DIR$/urllibPackges/basicPost.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/urllibPackges/fileOperate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Installation_site/Python/Lib/urllib/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="749" column="61" selection-start-line="749" selection-start-column="61" selection-end-line="749" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Env_Collection/Py_v3/Pro_Demo/UnittestPro/Lib/site-packages/selenium/webdriver/common/service.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="87" selection-start-line="87" selection-end-line="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SeleniumOperation/geckodriver.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://F:/Crawler/Spider/Spider_Note/day4/4-Project/1-正则测试.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Env_Collection/Py_v3/Pro_Demo/UnittestPro/Lib/site-packages/lxml/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/urllibPackges/urlBasic_g.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
           <folding>
-            <element signature="e#121#142#0" expanded="true" />
+            <element signature="e#145#175#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SeleniumOperation/basicDemo.py">
+    <entry file="file://$PROJECT_DIR$/Xpath_Practice/Xpath_Demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        <state relative-caret-position="197">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xpath_Practice/requestDemo/regularDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="84" column="34" selection-start-line="84" selection-start-column="34" selection-end-line="84" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xpath_Practice/requestDemo/xpath_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IPpool_g/IPpool_g.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urllibPackges/urlBasic_g.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1072">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xpath_Practice/Sina_xpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/positioning_element/locate_linkText.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="25" selection-start-line="24" selection-end-line="25" />
+          <folding>
+            <element signature="e#119#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xpath_Practice/requestDemo/requestDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-837">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#144#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Env_Collection/Py_v3/Pro_Demo/UnittestPro/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/positioning_element/locate_className.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#152#182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/positioning_element/locate_Xpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="38" column="90" lean-forward="true" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/positioning_element/locate_css.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#319#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/positioning_element/locate_id.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SeleniumOperation/TestDemo/Demo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
+        <state relative-caret-position="352">
           <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SeleniumOperation/XpathDemo.py">
+    <entry file="file://$PROJECT_DIR$/SeleniumOperation/auto_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="418">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumOperation/basicDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-703">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beautifulSoup/BS4_Demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1628">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/mouse_action.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="16" column="105" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="105" />
           <folding>
-            <element signature="e#232#241#0" expanded="true" />
+            <element signature="e#168#198#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/utilities/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/browser_control.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding>
+            <element signature="e#160#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/drive_your_browser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/HTML_exmaplesG/iframe_example.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/HTML_exmaplesG/html_test.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/pull_down_list_operatG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/iframe_element_location.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-233">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#94#124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/HTML_exmaplesG/frame_example.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/download_Files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="e#110#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/popUp_AlertHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#133#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/implicit_wait_until_appear.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="e#211#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/multiwindows_operate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="51" column="18" lean-forward="true" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/explicit_wait_untilAppearG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding>
+            <element signature="e#300#330#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/HTML_exmaplesG/http_cdn.bootcss.com_jquery_3.3.1_jquery.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/HTML_exmaplesG/http_cdn.bootcss.com_jquery_3.0.0_jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/keyboard_actionG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-440">
+          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <element signature="e#125#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/upload_fileG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+          <folding>
+            <element signature="e#204#250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/HTML_exmaplesG/uploadFile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/HTML_exmaplesG/girl.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/HTML_exmaplesG/girl.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/HTML_exmaplesG/2018-12-25_11_26_18.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/HTML_exmaplesG/2018-12-25_11_28_46.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://F:/Env_Collection/Py_v3/Pro_Demo/UnittestPro/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="1015" column="8" selection-start-line="1015" selection-start-column="8" selection-end-line="1015" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/HTML_exmaplesG/2018-12-25_11_53_42.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/getScreenShotG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="e#179#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/scrollbarOperateG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2552">
+          <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+          <folding>
+            <element signature="e#157#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webdriver_G.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/cookieHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumOperation/TestDemo/cookies.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret column="1543" lean-forward="true" selection-start-column="1543" selection-end-column="1543" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumOperation/selenium_cookie_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3740">
+          <caret line="130" lean-forward="true" selection-start-line="130" selection-end-line="130" />
+          <folding>
+            <element signature="e#552#582#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51zxw_selenium_example/selenium_cookie_login.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
