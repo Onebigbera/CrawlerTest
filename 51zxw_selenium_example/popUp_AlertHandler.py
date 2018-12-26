@@ -27,8 +27,7 @@ def popUp_AlertG(url):
     sleep(1)
 
     # 点击后跳出弹窗按钮 切换到弹窗对象上
-    pop_window = firefox.switch_to_alert()
-    pop_window.accept()
+    firefox.switch_to_alert().accept()
     sleep(3)
 
     firefox.close()
